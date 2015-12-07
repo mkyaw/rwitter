@@ -18,3 +18,6 @@
 
 # Ignore Spring files.
 /spring/*.pid
+
+# Ignore test file for class.
+/example_user.rb
